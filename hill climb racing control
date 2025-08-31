@@ -1,0 +1,73 @@
+# 🎮 Hill Climb Racing with Hand Gesture Control
+
+Control the Hill Climb Racing game using hand gestures with the help of OpenCV and MediaPipe.
+This project demonstrates how computer vision and gesture recognition can be used to interact with games in real-time, without a keyboard or mouse.
+
+✨ Features
+
+🎥 Real-time hand tracking using MediaPipe
+
+🖐️ Custom gesture recognition for game controls (e.g., accelerate, brake, tilt)
+
+🎮 Seamless integration with the Hill Climb Racing game
+
+🚀 Touchless and fun gaming experience
+
+📂 Project Structure
+📁 hill-climb-hand-gesture
+│-- main.py            # Main code to run the project
+│-- requirements.txt   # All dependencies
+│-- README.md          # Project documentation
+│-- demo.mp4           # Demo video (optional)
+
+🛠️ Technologies Used
+
+Python 🐍
+
+OpenCV 📷
+
+MediaPipe ✋
+
+PyAutoGUI (for key controls)
+
+🚀 How to Run
+
+Clone the repository
+
+git clone https://github.com/your-username/hill-climb-hand-gesture.git
+cd hill-climb-hand-gesture
+
+
+Install the dependencies
+
+pip install -r requirements.txt
+
+
+Run the project
+
+python main.py
+
+
+Open Hill Climb Racing and start playing using your hand gestures! 🎮
+
+🎥 Demo
+
+[Attach demo video or GIF here]
+
+📌 Future Improvements
+
+Add more gestures for advanced controls
+
+Support for multiple games
+
+Improved accuracy with custom gesture models
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to fork this repo and submit a pull request.
+
+📜 License
+
+This project is licensed under the MIT License – you’re free to use, modify, and share it.
+
+🙌 Acknowledgements
